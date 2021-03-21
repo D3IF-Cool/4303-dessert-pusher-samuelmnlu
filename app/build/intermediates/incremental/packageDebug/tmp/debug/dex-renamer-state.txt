@@ -1,0 +1,4 @@
+#Sun Mar 21 16:37:09 ICT 2021
+base.0=D\:\\PERKULIAHAN (2021 Genap)\\MOBPRO\\AndroidStudio\\android-kotlin-fundamentals-starter-apps-master\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
